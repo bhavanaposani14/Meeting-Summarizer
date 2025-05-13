@@ -111,22 +111,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 - Keep API keys secret using environment variables
 - Extend audio capabilities with Whisper or AssemblyAI if needed
 
----
 
-## 📄 License
-
-MIT License © 2025 [Your Name]
-
----
-
-## 🙋 Contact
-
-For help or contributions, reach out:
-
-📧 your.email@example.com  
-🐙 GitHub: https://github.com/your-username/ai-meetings  
-🔗 LinkedIn: https://linkedin.com/in/your-profile
-
----
-
-> Built to save teams from hours of notetaking – powered by AI.
